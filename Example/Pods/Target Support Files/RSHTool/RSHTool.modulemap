@@ -1,0 +1,6 @@
+framework module RSHTool {
+  umbrella header "RSHTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
